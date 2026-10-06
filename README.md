@@ -77,6 +77,10 @@ Starten, überwachen und konfigurieren – als Windows-Programm am Server, im Br
 - Kein .NET nötig (eigenständige EXE)
 - **Microsoft Edge WebView2** für das Programmfenster: unter Windows 10/11 bereits vorhanden. Fehlt es (oft bei Windows Server), fragt der Manager, ob er den offiziellen Microsoft-Installer laden soll. Bei „Nein“ öffnet sich die Oberfläche im Browser – alle Funktionen bleiben gleich.
 
+## Nutzungsbedingungen
+Kostenlos nutzbar für deine eigenen Server. **Nicht erlaubt:** Verkaufen, auf anderen Seiten erneut hochladen (bitte hierher verlinken), Verändern, Dekompilieren und Ausgeben unter eigenem Namen.
+Alle Details: **[Nutzungsbedingungen (LICENSE.md)](LICENSE.md)**
+
 ---
 
 <a id="english"></a>
@@ -149,3 +153,7 @@ Start, monitor and configure your servers – as a Windows program on the server
 - Windows 10/11 or Windows Server 2016+ (64-bit)
 - No .NET needed (self-contained EXE)
 - **Microsoft Edge WebView2** for the program window: already included in Windows 10/11. If it is missing (often on Windows Server), the manager offers to download the official Microsoft installer. If you choose “No”, the interface opens in the browser instead – all features stay the same.
+
+## Terms of use
+Free to use for your own servers. **Not allowed:** selling, re-uploading to other sites (please link here instead), modifying, decompiling and presenting it under your own name.
+Full details: **[Terms of use (LICENSE.md)](LICENSE.md)**
